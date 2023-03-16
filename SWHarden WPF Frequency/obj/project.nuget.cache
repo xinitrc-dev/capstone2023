@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "sR10jK1gXIE2VJzWfJQnN1/YeLy94V2G4ru2/l+wI6L8uubf5g/C+iYB8AGsLeedpHb/mCewKcO3lxKVK7klVw==",
+  "success": true,
+  "projectFilePath": "G:\\C# Projects\\SWHarden WPF Frequency\\SWHarden WPF Frequency.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xinitrc\\.nuget\\packages\\fftsharp\\1.1.6\\fftsharp.1.1.6.nupkg.sha512",
+    "C:\\Users\\xinitrc\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\xinitrc\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\xinitrc\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\xinitrc\\.nuget\\packages\\naudio\\2.1.0\\naudio.2.1.0.nupkg.sha512",
+    "C:\\Users\\xinitrc\\.nuget\\packages\\naudio.asio\\2.1.0\\naudio.asio.2.1.0.nupkg.sha512",
+    "C:\\Users\\xinitrc\\.nuget\\packages\\naudio.core\\2.1.0\\naudio.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\xinitrc\\.nuget\\packages\\naudio.midi\\2.1.0\\naudio.midi.2.1.0.nupkg.sha512",
+    "C:\\Users\\xinitrc\\.nuget\\packages\\naudio.wasapi\\2.1.0\\naudio.wasapi.2.1.0.nupkg.sha512",
+    "C:\\Users\\xinitrc\\.nuget\\packages\\naudio.winforms\\2.1.0\\naudio.winforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\xinitrc\\.nuget\\packages\\naudio.winmm\\2.1.0\\naudio.winmm.2.1.0.nupkg.sha512",
+    "C:\\Users\\xinitrc\\.nuget\\packages\\scottplot\\4.1.61\\scottplot.4.1.61.nupkg.sha512",
+    "C:\\Users\\xinitrc\\.nuget\\packages\\scottplot.winforms\\4.1.61\\scottplot.winforms.4.1.61.nupkg.sha512",
+    "C:\\Users\\xinitrc\\.nuget\\packages\\scottplot.wpf\\4.1.61\\scottplot.wpf.4.1.61.nupkg.sha512",
+    "C:\\Users\\xinitrc\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\xinitrc\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\xinitrc\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\xinitrc\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

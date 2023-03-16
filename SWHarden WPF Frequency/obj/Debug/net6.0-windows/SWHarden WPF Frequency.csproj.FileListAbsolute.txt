@@ -1,0 +1,29 @@
+G:\C# Projects\SWHarden WPF Frequency\obj\Debug\net6.0-windows\SWHarden WPF Frequency.csproj.AssemblyReference.cache
+G:\C# Projects\SWHarden WPF Frequency\obj\Debug\net6.0-windows\SWHarden_WPF_Frequency.FftMonitorForm.resources
+G:\C# Projects\SWHarden WPF Frequency\obj\Debug\net6.0-windows\SWHarden WPF Frequency.csproj.GenerateResource.cache
+G:\C# Projects\SWHarden WPF Frequency\obj\Debug\net6.0-windows\SWHarden WPF Frequency.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# Projects\SWHarden WPF Frequency\obj\Debug\net6.0-windows\SWHarden WPF Frequency.AssemblyInfoInputs.cache
+G:\C# Projects\SWHarden WPF Frequency\obj\Debug\net6.0-windows\SWHarden WPF Frequency.AssemblyInfo.cs
+G:\C# Projects\SWHarden WPF Frequency\obj\Debug\net6.0-windows\SWHarden WPF Frequency.csproj.CoreCompileInputs.cache
+G:\C# Projects\SWHarden WPF Frequency\bin\Debug\net6.0-windows\SWHarden WPF Frequency.exe
+G:\C# Projects\SWHarden WPF Frequency\bin\Debug\net6.0-windows\SWHarden WPF Frequency.deps.json
+G:\C# Projects\SWHarden WPF Frequency\bin\Debug\net6.0-windows\SWHarden WPF Frequency.runtimeconfig.json
+G:\C# Projects\SWHarden WPF Frequency\bin\Debug\net6.0-windows\SWHarden WPF Frequency.dll
+G:\C# Projects\SWHarden WPF Frequency\bin\Debug\net6.0-windows\SWHarden WPF Frequency.pdb
+G:\C# Projects\SWHarden WPF Frequency\bin\Debug\net6.0-windows\FftSharp.dll
+G:\C# Projects\SWHarden WPF Frequency\bin\Debug\net6.0-windows\NAudio.dll
+G:\C# Projects\SWHarden WPF Frequency\bin\Debug\net6.0-windows\NAudio.Asio.dll
+G:\C# Projects\SWHarden WPF Frequency\bin\Debug\net6.0-windows\NAudio.Core.dll
+G:\C# Projects\SWHarden WPF Frequency\bin\Debug\net6.0-windows\NAudio.Midi.dll
+G:\C# Projects\SWHarden WPF Frequency\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+G:\C# Projects\SWHarden WPF Frequency\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+G:\C# Projects\SWHarden WPF Frequency\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+G:\C# Projects\SWHarden WPF Frequency\bin\Debug\net6.0-windows\ScottPlot.dll
+G:\C# Projects\SWHarden WPF Frequency\bin\Debug\net6.0-windows\ScottPlot.WinForms.dll
+G:\C# Projects\SWHarden WPF Frequency\bin\Debug\net6.0-windows\ScottPlot.WPF.dll
+G:\C# Projects\SWHarden WPF Frequency\obj\Debug\net6.0-windows\SWHarden WPF Frequency.csproj.CopyComplete
+G:\C# Projects\SWHarden WPF Frequency\obj\Debug\net6.0-windows\SWHarden WPF Frequency.dll
+G:\C# Projects\SWHarden WPF Frequency\obj\Debug\net6.0-windows\refint\SWHarden WPF Frequency.dll
+G:\C# Projects\SWHarden WPF Frequency\obj\Debug\net6.0-windows\SWHarden WPF Frequency.pdb
+G:\C# Projects\SWHarden WPF Frequency\obj\Debug\net6.0-windows\SWHarden WPF Frequency.genruntimeconfig.cache
+G:\C# Projects\SWHarden WPF Frequency\obj\Debug\net6.0-windows\ref\SWHarden WPF Frequency.dll
