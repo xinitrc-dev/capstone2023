@@ -1,0 +1,5 @@
+G:\C# Projects\SWHarden Console Frequency\obj\Debug\net6.0\SWHarden Console Frequency.csproj.AssemblyReference.cache
+G:\C# Projects\SWHarden Console Frequency\obj\Debug\net6.0\SWHarden Console Frequency.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# Projects\SWHarden Console Frequency\obj\Debug\net6.0\SWHarden Console Frequency.AssemblyInfoInputs.cache
+G:\C# Projects\SWHarden Console Frequency\obj\Debug\net6.0\SWHarden Console Frequency.AssemblyInfo.cs
+G:\C# Projects\SWHarden Console Frequency\obj\Debug\net6.0\SWHarden Console Frequency.csproj.CoreCompileInputs.cache

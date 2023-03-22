@@ -1,0 +1,24 @@
+G:\C# Projects\SWHarden Console Frequency\bin\Debug\net6.0-windows\SWHarden Console Frequency.exe
+G:\C# Projects\SWHarden Console Frequency\bin\Debug\net6.0-windows\SWHarden Console Frequency.deps.json
+G:\C# Projects\SWHarden Console Frequency\bin\Debug\net6.0-windows\SWHarden Console Frequency.runtimeconfig.json
+G:\C# Projects\SWHarden Console Frequency\bin\Debug\net6.0-windows\SWHarden Console Frequency.dll
+G:\C# Projects\SWHarden Console Frequency\bin\Debug\net6.0-windows\SWHarden Console Frequency.pdb
+G:\C# Projects\SWHarden Console Frequency\bin\Debug\net6.0-windows\NAudio.dll
+G:\C# Projects\SWHarden Console Frequency\bin\Debug\net6.0-windows\NAudio.Asio.dll
+G:\C# Projects\SWHarden Console Frequency\bin\Debug\net6.0-windows\NAudio.Core.dll
+G:\C# Projects\SWHarden Console Frequency\bin\Debug\net6.0-windows\NAudio.Midi.dll
+G:\C# Projects\SWHarden Console Frequency\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+G:\C# Projects\SWHarden Console Frequency\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+G:\C# Projects\SWHarden Console Frequency\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+G:\C# Projects\SWHarden Console Frequency\obj\Debug\net6.0-windows\SWHarden Console Frequency.csproj.AssemblyReference.cache
+G:\C# Projects\SWHarden Console Frequency\obj\Debug\net6.0-windows\SWHarden Console Frequency.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# Projects\SWHarden Console Frequency\obj\Debug\net6.0-windows\SWHarden Console Frequency.AssemblyInfoInputs.cache
+G:\C# Projects\SWHarden Console Frequency\obj\Debug\net6.0-windows\SWHarden Console Frequency.AssemblyInfo.cs
+G:\C# Projects\SWHarden Console Frequency\obj\Debug\net6.0-windows\SWHarden Console Frequency.csproj.CoreCompileInputs.cache
+G:\C# Projects\SWHarden Console Frequency\obj\Debug\net6.0-windows\SWHarden Console Frequency.csproj.CopyComplete
+G:\C# Projects\SWHarden Console Frequency\obj\Debug\net6.0-windows\SWHarden Console Frequency.dll
+G:\C# Projects\SWHarden Console Frequency\obj\Debug\net6.0-windows\refint\SWHarden Console Frequency.dll
+G:\C# Projects\SWHarden Console Frequency\obj\Debug\net6.0-windows\SWHarden Console Frequency.pdb
+G:\C# Projects\SWHarden Console Frequency\obj\Debug\net6.0-windows\SWHarden Console Frequency.genruntimeconfig.cache
+G:\C# Projects\SWHarden Console Frequency\obj\Debug\net6.0-windows\ref\SWHarden Console Frequency.dll
+G:\C# Projects\SWHarden Console Frequency\bin\Debug\net6.0-windows\FftSharp.dll

@@ -1,0 +1,23 @@
+G:\C# Projects\SWHarden Level Volume\bin\Debug\net6.0-windows\SWHarden Level Volume.exe
+G:\C# Projects\SWHarden Level Volume\bin\Debug\net6.0-windows\SWHarden Level Volume.deps.json
+G:\C# Projects\SWHarden Level Volume\bin\Debug\net6.0-windows\SWHarden Level Volume.runtimeconfig.json
+G:\C# Projects\SWHarden Level Volume\bin\Debug\net6.0-windows\SWHarden Level Volume.dll
+G:\C# Projects\SWHarden Level Volume\bin\Debug\net6.0-windows\SWHarden Level Volume.pdb
+G:\C# Projects\SWHarden Level Volume\bin\Debug\net6.0-windows\NAudio.dll
+G:\C# Projects\SWHarden Level Volume\bin\Debug\net6.0-windows\NAudio.Asio.dll
+G:\C# Projects\SWHarden Level Volume\bin\Debug\net6.0-windows\NAudio.Core.dll
+G:\C# Projects\SWHarden Level Volume\bin\Debug\net6.0-windows\NAudio.Midi.dll
+G:\C# Projects\SWHarden Level Volume\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+G:\C# Projects\SWHarden Level Volume\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+G:\C# Projects\SWHarden Level Volume\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+G:\C# Projects\SWHarden Level Volume\obj\Debug\net6.0-windows\SWHarden Level Volume.csproj.AssemblyReference.cache
+G:\C# Projects\SWHarden Level Volume\obj\Debug\net6.0-windows\SWHarden Level Volume.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# Projects\SWHarden Level Volume\obj\Debug\net6.0-windows\SWHarden Level Volume.AssemblyInfoInputs.cache
+G:\C# Projects\SWHarden Level Volume\obj\Debug\net6.0-windows\SWHarden Level Volume.AssemblyInfo.cs
+G:\C# Projects\SWHarden Level Volume\obj\Debug\net6.0-windows\SWHarden Level Volume.csproj.CoreCompileInputs.cache
+G:\C# Projects\SWHarden Level Volume\obj\Debug\net6.0-windows\SWHarden Level Volume.csproj.CopyComplete
+G:\C# Projects\SWHarden Level Volume\obj\Debug\net6.0-windows\SWHarden Level Volume.dll
+G:\C# Projects\SWHarden Level Volume\obj\Debug\net6.0-windows\refint\SWHarden Level Volume.dll
+G:\C# Projects\SWHarden Level Volume\obj\Debug\net6.0-windows\SWHarden Level Volume.pdb
+G:\C# Projects\SWHarden Level Volume\obj\Debug\net6.0-windows\SWHarden Level Volume.genruntimeconfig.cache
+G:\C# Projects\SWHarden Level Volume\obj\Debug\net6.0-windows\ref\SWHarden Level Volume.dll
