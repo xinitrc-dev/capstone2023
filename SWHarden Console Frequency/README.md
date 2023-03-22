@@ -1,4 +1,4 @@
-#Frequency display program#
+# Frequency display program #
 This program will prompt you for your audio source (either input or output) and and will display it's current frequency.
 
 #### Swap from current frequency to frequency bands display ####
